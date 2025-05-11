@@ -2,7 +2,7 @@
 
 Submitted by: **Pranjal Poudel**
 
-\*\*\*\* is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+*Gamer Zone* is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **5** hours spent in total
 
@@ -23,11 +23,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/SSllyGq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with ScreenToGif
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -36,7 +37,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Initially, I was unable to display the image as I was a bit unfamiliar with JS. But then i was able to figure out as it turned out to be a just a simple code error.
 
 ## License
 
